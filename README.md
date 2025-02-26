@@ -10,7 +10,7 @@
   <p>Welcome to my personal portfolio! This project showcases my skills, projects, and experience.</p>
 
   <h2>🔗 Live Demo</h2>
-  <p>Check out my portfolio here: <a href="https://Lakshmi-vijaya-aashritha-portfolio.vercel.app/" target="_blank">Portfolio</a></p>
+  <p>Check out my portfolio here: <a href="https://lakshmi-vijaya-aashritha-nelavelli.vercel.app/" target="_blank">Portfolio</a></p>
 
   <h2>🛠️ Tech Stack</h2>
   <ul>
@@ -39,7 +39,7 @@
   <p>If you have any suggestions or improvements, feel free to create a pull request or open an issue.</p>
 
   <h2>Contact</h2>
-  <p>📩 Feel free to reach out to me at <a href="lva.nelavelli01@gmail.com@gmail.com">lva.nelavelli01@gmail.com</a></p>
+  <p>📩 Feel free to reach out to me at <a href="lva.nelavelli01@gmail.com@">lva.nelavelli01@gmail.com</a></p>
 
 </body>
 </html>
