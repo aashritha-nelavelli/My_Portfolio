@@ -34,14 +34,13 @@ export const EDUCATION_TIMELINE = [
         iconStyle: { background: 'rgb(255, 218, 185)', color: '#fff' },
     },
     {
-        date: 'April 2023 - July 2023',
-        title: 'Full Stack Web Development Intern',
+        date: 'May 2022 - July 2022',
+        title: 'Machine Learning Intern',
         subtitle: 'Tech Shell Software Pvt Ltd, India',
         details: [
-            'Engineered a personalized learning platform with React.js and Bootstrap for a responsive front end, integrated with a Django backend and Node.js/Express RESTful APIs, boosting scalability by 30%',
-            'Accelerated platform performance by implementing Memcached for caching and MongoDB for flexible data storage, reducing load times by 20%.',
-            'Fostered seamless collaboration between development and design teams.',
-            'Enhanced user security with robust authentication protocols, ensuring reliable access for 500+ users.'
+            'Designed and implemented a scalable Selenium-based Python scraping pipeline for dynamic web pages, leveraging headless browsing, optimized selectors, and parallel processing.',
+            'Improved data quality by 40% through rigorous cleaning measures, including deduplication, handling of missing values, and standardized text formats.',
+            'Achieved a 30% increase in extraction speed while successfully gathering 2,500+ structured records into CSV files, ensuring reliable, high-quality datasets for LLM and ML model training.'
         ],
         iconStyle: { background: 'rgb(202,183,220)', color: '#fff' },
     },
