@@ -38,7 +38,7 @@ const Hero = () => {
               animate={isInView ? "visible" : "hidden"}
               className="bg-gradient-to-r from-pink-400 via-slate-600 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent"
             >
-              Software Developer
+              Data-Driven AI/ML Enthusiast
             </motion.span>
             <motion.p
               variants={container(1)}
