@@ -34,7 +34,7 @@ export const EDUCATION_TIMELINE = [
         iconStyle: { background: 'rgb(255, 218, 185)', color: '#fff' },
     },
     {
-        date: 'May 2022 - July 2022',
+        date: 'May 2023 - July 2023',
         title: 'Machine Learning Intern',
         subtitle: 'Tech Shell Software Pvt Ltd, India',
         details: [
